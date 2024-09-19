@@ -4,6 +4,7 @@ public class exemplo1 {
         System.out.println("Alteração 2");
 
         System.out.println("alteração 3");
+        System.out.println("alteração 4");
     }
     
 }
